@@ -12,7 +12,7 @@ function Header() {
       <Link to="/">
         <img
           className="header__icon"
-          src="https://i.pinimg.com/originals/3c/bf/be/3cbfbe148597341fa56f2f87ade90956.png"
+          src="https://images.squarespace-cdn.com/content/v1/5f72a23e4dd846436c2a933e/1602732789700-RE4DNARCSZK49E3WRW4A/ke17ZwdGBToddI8pDm48kE3kEAMe909ij56K1uy1Bed7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0gv1ys-8KA6l1jVWJZidkzO11qMSeE4bMgp0yz6hGLBiiRbM7xfXkA46Tlx468oGPw/The+Nomad+Project+LOGO.png?format=2500w"
           alt=""
         />
       </Link>
